@@ -5,7 +5,7 @@
 <h1>Azure Virtual Machine Creation & Getting Started</h1>
 This tutorial outlines how to create VM (Virtual Machine) & Using it with a Remote Desktop Connection.<br />
 
-<h2>....</h2>
+<h2>Getting Started</h2>
 
   - 
 
