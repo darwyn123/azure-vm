@@ -6,8 +6,7 @@
 This tutorial outlines how to create VM (Virtual Machine) & Using it with a Remote Desktop Connection.<br />
 
 
-
-
+<br />
 
 
 <h2>Getting Started</h2>
