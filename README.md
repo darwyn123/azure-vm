@@ -17,7 +17,7 @@ This tutorial outlines how to create VM (Virtual Machine) & Using it with a Remo
 
 <h2>Getting Started</h2>
 
-  - 
+  - Head over to the Azure Portal and sign in (create an account and start a subscription if needed).
 
 <p>
 <img <img width="1143" height="665" alt="IIS_CGI" src="https://github.com/user-attachments/assets/0874ff79-26cb-4c5a-a03b-c99bb76a702b" />
