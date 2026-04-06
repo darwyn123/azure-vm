@@ -34,27 +34,19 @@ NOTE: The configuration options below should be adjusted accordingly based on lo
 
   Subscription
 
-     Select the subscription to be used by the VM.
+     Select an active subscription.
 
 Resource Group
 
-     Click Create new and enter osTicket-RG, then click OK.
+     Click Create new and enter osTicket, then click OK.
 
 Virtual machine name
 
-     Enter osTicket-VM.
+     Enter osTicket-vm.
 
 Region
 
      Enter preferred region to host the VM.
-
-Availability options
-
-     Select No infrastructure redundancy required.
-
-Security type
-
-     Select Standard.
 
 Image
 
@@ -66,7 +58,7 @@ VM Architecture
 
 Size
 
-     Select Standard_B2ms - 2 vcpus, 8 GiB memory.
+     Select Standard_D2s_v3 - 2 vcpus, 8 GiB memory.
 
 Username & Password
 
@@ -74,4 +66,4 @@ Username & Password
 
 Licensing
 
-     Tick the ✅I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights checkbox.
+     Check the ✅I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights checkbox.
