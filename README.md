@@ -8,6 +8,12 @@ This tutorial outlines how to create VM (Virtual Machine) & Using it with a Remo
 
 <br />
 
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+
+<br />
 
 <h2>Getting Started</h2>
 
