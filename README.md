@@ -48,6 +48,14 @@ Region
 
      Enter preferred region to host the VM.
 
+Availability options
+
+     Select No infrastructure redundancy required.
+
+Security type
+
+     Select Trusted launch virtual machines.
+
 Image
 
      Search for and select Windows 10 Pro, version 22H2 - x64.
@@ -67,3 +75,8 @@ Username & Password
 Licensing
 
      Check the I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights checkbox.
+
+<p>
+<img <img width="574" height="678" alt="Azure_SettingsBasics" src="https://github.com/user-attachments/assets/4334afe0-03e5-4f45-8cf5-1173aa50ee03" />
+ />
+</p>
