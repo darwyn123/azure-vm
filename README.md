@@ -66,4 +66,4 @@ Username & Password
 
 Licensing
 
-     Check the ✅I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights checkbox.
+     Check the I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights checkbox.
