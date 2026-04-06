@@ -22,7 +22,10 @@ This tutorial outlines how to create VM (Virtual Machine) & Using it with a Remo
 
 <p>
 <img <img width="1233" height="653" alt="Azure_CreateVM" src="https://github.com/user-attachments/assets/3a75fb76-e3fc-4476-9087-9f1de7dc7ba3" />
- />
 </p>
 
 <br />
+
+<h2>Settings Configuration</h2>
+
+NOTE: The configuration options below should be adjusted accordingly based on location and use case.
