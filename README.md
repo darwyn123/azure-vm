@@ -30,4 +30,4 @@ This tutorial outlines how to create VM (Virtual Machine) & Using it with a Remo
 
 NOTE: The configuration options below should be adjusted accordingly based on location and use case.
 
-<h1>Basics Tap</h1>
+<h3>Basics Tap</h3>
