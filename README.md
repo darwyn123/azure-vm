@@ -31,3 +31,47 @@ This tutorial outlines how to create VM (Virtual Machine) & Using it with a Remo
 NOTE: The configuration options below should be adjusted accordingly based on location and use case.
 
 <h3>Basics Tap</h3>
+
+  Subscription
+
+     Select the subscription to be used by the VM.
+
+Resource Group
+
+     Click Create new and enter osTicket-RG, then click OK.
+
+Virtual machine name
+
+     Enter osTicket-VM.
+
+Region
+
+     Enter preferred region to host the VM.
+
+Availability options
+
+     Select No infrastructure redundancy required.
+
+Security type
+
+     Select Standard.
+
+Image
+
+     Search for and select Windows 10 Pro, version 22H2 - x64.
+
+VM Architecture
+
+     Select x64.
+
+Size
+
+     Select Standard_B2ms - 2 vcpus, 8 GiB memory.
+
+Username & Password
+
+     Set up a secure username and password.
+
+Licensing
+
+     Tick the ✅I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights checkbox.
