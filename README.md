@@ -29,3 +29,5 @@ This tutorial outlines how to create VM (Virtual Machine) & Using it with a Remo
 <h2>Settings Configuration</h2>
 
 NOTE: The configuration options below should be adjusted accordingly based on location and use case.
+
+<h1>Basics Tap</h1>
