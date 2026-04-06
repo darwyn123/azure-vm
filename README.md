@@ -77,6 +77,6 @@ Licensing
      Check the I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights checkbox.
 
 <p>
-<img <img width="574" height="678" alt="Azure_SettingsBasics" src="https://github.com/user-attachments/assets/4334afe0-03e5-4f45-8cf5-1173aa50ee03" />
+<img <img width="574" height="678" alt="Azure_SettingsBasics" src="https://github.com/user-attachments/assets/4334afe0-03e5-4f45-8cf5-1173aa50ee03" 
  />
 </p>
