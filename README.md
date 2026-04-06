@@ -80,3 +80,7 @@ Licensing
 <img <img width="574" height="678" alt="Azure_SettingsBasics" src="https://github.com/user-attachments/assets/4334afe0-03e5-4f45-8cf5-1173aa50ee03" 
  />
 </p>
+
+<br />
+
+<h3>Networking Tap</h3>
