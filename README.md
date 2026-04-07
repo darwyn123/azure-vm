@@ -101,9 +101,17 @@ Licensing
 
 On Mac: Head over to the App store, download Windows App.
 
+    On Azure Virtual Machine Section, copy the public IPv4 Address of the VM you've created.
     Open Windows App, click the + button on the top right. Than click "Add PC".
     
 <p>
 <img <img width="1301" height="558" alt="RemoteDeskSetup" src="https://github.com/user-attachments/assets/1a76733b-f69b-4b0a-88ea-ed1bb05b1d56" />
 </p>
+
+In the PC name field: Paste the public IPv4 address of the virtual machine you created.
+
+<p>
+<img <img width="631" height="587" alt="RemoteIP" src="https://github.com/user-attachments/assets/430bb1a3-8063-4c02-9c1e-1216f83287db" />
+</p>
+    
       
