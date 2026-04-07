@@ -99,4 +99,11 @@ Licensing
 
 <h2>Accessing the Virtual Machine Remotely</h2>
 
-  - 
+On Mac: Head over to the App store, download Windows App.
+
+    Open Windows App, click the + button on the top right. Than click "Add PC".
+    
+<p>
+<img <img width="1301" height="558" alt="RemoteDeskSetup" src="https://github.com/user-attachments/assets/1a76733b-f69b-4b0a-88ea-ed1bb05b1d56" />
+</p>
+      
