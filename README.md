@@ -137,6 +137,17 @@ Press Win+R, type in mstsc and then click OK to open the Remote Desktop Connecti
 On Linux: 
 Use Remmina or a similar client in substitution of Microsoft Remote Desktop.
 
+<br />
+
+<h2>Deleting the Virtual Machine</h2>
+
+  -  Head over to Azure Virtual Machines Section, check on the checkbox next to the virtual machine you want to delete. Then, click on the 3 dots on the tool bar if you don't see "Delete", and click "Delete".
+
+<p>
+<img <img width="1418" height="437" alt="DeleteVM" src="https://github.com/user-attachments/assets/5cf5f449-70a1-49f6-b0f3-217f2536cae9" />
+</p>
+
+
 
 
     
