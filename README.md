@@ -84,3 +84,13 @@ Licensing
 <br />
 
 <h3>Networking Tap</h3>
+
+      Select the new virtual network it created.
+
+<p>
+<img <img width="807" height="678" alt="Azure_NetworkingSettings" src="https://github.com/user-attachments/assets/ec582073-92d0-429d-b09a-ee8bcc8f27bb" />
+ 
+ />
+</p>
+
+<br />
