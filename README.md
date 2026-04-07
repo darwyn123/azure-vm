@@ -108,10 +108,31 @@ On Mac: Head over to the App store, download Windows App.
 <img <img width="1301" height="558" alt="RemoteDeskSetup" src="https://github.com/user-attachments/assets/1a76733b-f69b-4b0a-88ea-ed1bb05b1d56" />
 </p>
 
-In the PC name field: Paste the public IPv4 address of the virtual machine you created.
+In the PC name field: Paste the public IPv4 address of the virtual machine you created. Than click, Add.
 
 <p>
 <img <img width="631" height="587" alt="RemoteIP" src="https://github.com/user-attachments/assets/430bb1a3-8063-4c02-9c1e-1216f83287db" />
 </p>
+
+Enter the username and password that was set up earlier during the creation of the Azure virtual machine.
+
+<p>
+<img <img width="708" height="553" alt="RemoteUserName" src="https://github.com/user-attachments/assets/3dcf57fa-fff5-43c4-9d38-d70ca08bccbd" />
+</p>
+
+Click Continue if this prompts.
+
+<p>
+<img <img width="708" height="553" alt="RemoteCon" src="https://github.com/user-attachments/assets/96197ff7-9a54-4a57-af54-a86b548b4079" />
+</p>
+
+You are now connected to the Virtual Machine!
+
+<p>
+<img <img width="708" height="553" alt="RemoteWelcome" src="https://github.com/user-attachments/assets/5ede2de2-2609-44fe-9a39-75dd81ca544e" />
+</p>
+
+
+
     
       
