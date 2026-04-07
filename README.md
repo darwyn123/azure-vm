@@ -132,6 +132,11 @@ You are now connected to the Virtual Machine!
 <img <img width="708" height="553" alt="RemoteWelcome" src="https://github.com/user-attachments/assets/5ede2de2-2609-44fe-9a39-75dd81ca544e" />
 </p>
 
+On Windows:
+Press Win+R, type in mstsc and then click OK to open the Remote Desktop Connection window.
+On Linux: 
+Use Remmina or a similar client in substitution of Microsoft Remote Desktop.
+
 
 
     
