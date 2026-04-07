@@ -147,6 +147,12 @@ Use Remmina or a similar client in substitution of Microsoft Remote Desktop.
 <img <img width="1418" height="437" alt="DeleteVM" src="https://github.com/user-attachments/assets/5cf5f449-70a1-49f6-b0f3-217f2536cae9" />
 </p>
 
+  - A side panel will open up on the right of the webpage. Then, type "delete" into the text field. Lastly, click the red Delete button.
+
+<p>
+<img <img width="1437" height="646" alt="ClickDeleteToFinish" src="https://github.com/user-attachments/assets/75e3abe9-b24d-459a-92c1-72248786bc31" />
+</p>
+
 
 
 
