@@ -95,6 +95,8 @@ Licensing
 
    Click the Review + Create. Verify that validation has passed. Than, click Create.
 
+<br />
+
 <h2>Accessing the Virtual Machine Remotely</h2>
 
   - 
