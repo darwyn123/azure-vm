@@ -93,4 +93,4 @@ Licensing
 
 <br />
 
-   Click the Review + Create button at the bottom of the page. Verify that validation has passed. Lastly, click Create.
+   Click the Review + Create. Verify that validation has passed. Than, click Create.
